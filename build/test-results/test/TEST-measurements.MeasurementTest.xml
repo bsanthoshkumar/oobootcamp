@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="measurements.MeasurementTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-02T13:15:20" hostname="santhosh" time="0.002">
+  <properties/>
+  <testcase name="shouldAddTwoMeasurements()" classname="measurements.MeasurementTest" time="0.001"/>
+  <testcase name="shouldGiveFalseIfMeasurementsAreNotEqual()" classname="measurements.MeasurementTest" time="0.0"/>
+  <testcase name="shouldGiveTrueIfTheMeasurementsAreEqual()" classname="measurements.MeasurementTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
